@@ -4,7 +4,7 @@
 Funcionalidade: Adicionar 2 calçados ao carrinho
 
   @add_cart
-  Esquema do Cenário: Acessar categoria
+  Esquema do Cenário: Adicionar calçados
     Dado que esteja na vitrine "<calçado>"
     Quando filtrar pela numeração "<tam1>"
       E adicionar o "<calçado>" nº "<tam1>" ao carrinho
