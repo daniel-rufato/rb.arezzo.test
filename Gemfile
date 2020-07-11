@@ -1,0 +1,27 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+ruby '2.5.3'
+
+gem 'addressable'
+gem 'brazilian_documents'
+gem 'bundler'
+gem 'capybara'
+gem 'cpf_cnpj'
+gem 'cpf_faker'
+gem 'cucumber', '3.1.2'
+gem 'cucumber_statistics'
+gem 'faker'
+gem 'geckodriver-helper'
+gem 'httparty'
+gem 'parallel_tests'
+gem 'pry'
+gem 'rspec'
+gem 'rubocop'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'jsonpath'
+gem 'json-schema'
+gem 'savon'
+gem 'report_builder'
+

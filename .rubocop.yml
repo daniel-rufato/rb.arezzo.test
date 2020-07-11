@@ -1,0 +1,11 @@
+Layout/EndOfLine:
+  EnforcedStyle: lf
+
+Style/Documentation:
+  Enabled: false
+
+Style/GlobalVars:
+  AllowedVariables:
+    - $nxcf_pages
+    - $project_root
+    - $screenshot_counter
