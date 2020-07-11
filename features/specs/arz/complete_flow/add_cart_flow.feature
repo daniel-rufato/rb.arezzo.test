@@ -1,7 +1,7 @@
 #language: pt
 
 @add_cart_flow
-Funcionalidade: Acessar categoria e subcategoria
+Funcionalidade: Adicionar 2 calçados ao carrinho
 
   @add_cart
   Esquema do Cenário: Acessar categoria
